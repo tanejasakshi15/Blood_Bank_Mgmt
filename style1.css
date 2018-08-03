@@ -1,0 +1,138 @@
+.wrapper{
+	
+	background-color:white;
+} 
+
+#header{
+	height:115px;
+	width:600px;
+	margin-left:30px;
+	background-color:white;
+}
+
+
+ #header .ii{
+height:110px;
+max-width:800px;
+float:right;
+ }
+
+ #header .oo{
+
+float:left;
+ } 
+ 
+.wrapper #header h1{
+	position:relative;
+	max-width:400px;
+	left:30px;
+	top:30px;
+	bottom:70px;
+	color:crimson;
+}
+
+
+h2{ margin-top:40px; margin-left:120px;
+
+ background-color: white;}
+
+.icon-bar {
+    width: 1340px; 
+	height:40px;
+    background-color: #990012;
+    margin-bottom:8px;
+	margin-top:8px;
+	margin-left:5px;
+	border-radius:5px;
+}
+
+
+
+.icon-bar a {
+    float: left;
+	height:20px;
+	padding:10px;
+	width: 202px;
+
+    text-align: center;
+    transition: all 0.3s ease;
+    color: white;
+    font-size: 16px;
+}
+.icon-bar  .active{
+background-color:#F70D1A ; }
+
+.icon-bar a:hover {
+    background-color: red; /* Add a hover color */
+		
+}
+
+
+.myiconcolor{
+    color:white;
+	background-color:red;
+	margin-left:30px; margin-top:40px;
+}
+
+.a{
+	height:55px;
+	width:335px;
+	background-color:red;
+	float:left;
+}
+
+.extrabar{ width:710px;height:30px;background-color:red;float:left;}
+
+
+	
+
+.hrline{
+	width:1124px;
+	
+}
+.home{ margin-left:800px; }
+
+.top2{
+height:70px;
+width:1335px;
+background-color:yellow;
+margin-bottom:1px;
+}
+
+.image{margin-top:40px;}
+.image1{margin-top:20px;}
+  
+.btn {
+    border: none;
+    color: white;
+    padding: 10px 15px;
+    font-size: 16px;
+    cursor: pointer;
+	margin-left:30px;
+}
+/*.verticalLine {
+  background-color:black;
+  width:1px;
+  float:right;
+  color:white;
+  margin-right:10px;
+  margin-top:44px;
+  height:30px;
+}*/
+.success {background-color: black; float:right;margin-top:40px; margin-right:20px;border-radius:5px;} 
+.success:hover {background-color: Red;}
+
+.success2 {background-color: black; float:right;margin-right:10px;margin-top:40px; border-radius:5px} 
+.success2:hover {background-color: Red;}
+
+.l{
+	float:left;
+	border-radius:5px;
+}
+
+.r{
+	float:left;
+	margin-left:20px;
+	width:700px;
+	color:grey;
+}

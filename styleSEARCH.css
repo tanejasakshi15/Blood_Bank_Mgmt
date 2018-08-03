@@ -1,0 +1,88 @@
+#header{
+	height:115px;
+	width:1300px;
+	margin-left:30px;
+	background-color:white;
+}
+#header .oo{
+float:left;
+ } 
+ 
+
+#header h1{
+	position:relative;
+	width:600px;
+	margin-left:30px;
+	margin-top:30px;
+	margin-bottom:70px;
+	color:crimson;
+	float:left;
+}
+
+#ib {
+	-webkit-border-radius:3px;
+	float:left;
+    width:1300px;
+	height:40px;
+    background-color: black; 
+    margin-bottom:8px;
+	margin-left:20px;
+	padding:1px;
+}
+
+
+#ib a {
+	width:120px;
+    float: left;
+	padding:12px;
+
+	width: 195px;
+   text-align: center;
+    transition: all 0.3s ease;
+    color: white;
+    font-size: 16px;
+}
+
+#ib a:hover {
+    background-color: red; /* Add a hover color */
+		
+}
+
+#ib  .active{
+    background-color: red; /* Add an active/current color */
+}
+
+.myform{
+	float:left;
+	width:1330px;
+	margin-top:20px;
+	 background-color: yellow;
+}
+
+.box{
+	width:200px;
+	margin-left:30px;
+	height:40px;
+	margin-top:20px;
+}
+
+table, td {
+    border: 1px solid black;
+}
+
+td{
+width:200px;
+}
+
+
+.dynamic_table{
+	float:left;
+}
+
+.bk{
+	float:left;
+	margin-top:30px;
+	background-color:#303030;
+	height:400px;
+	width:1335px;
+}
